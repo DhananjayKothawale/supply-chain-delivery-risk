@@ -29,3 +29,6 @@ See folder structure for notebooks, SQL scripts, dashboard, and report.
 
 ## Dashboard Preview
 Screenshots are available in the `images/` folder.
+## 📊 Power BI Dashboard Preview
+
+![Supply Chain Delivery Risk Dashboard](images/dashboard_overview.png)
